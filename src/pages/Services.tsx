@@ -6,7 +6,7 @@ const Services = () => {
     {
       title: "Morning Service",
       time: "8:30 AM - 10:30 AM",
-      location: "Meshan Colony, Ramaavram, Kothagudem",
+      location: "Meshan Colony, Ramavaram, Kothagudem",
       description: "Start your Sunday with inspiring worship, prayer, and biblical teaching.",
       icon: <Clock className="h-6 w-6" />
     },
