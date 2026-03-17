@@ -86,15 +86,6 @@ This project can be deployed directly using **Lovable**:
 
 ---
 
-## 🔗 Custom Domain
-
-You can connect your own domain:
-
-* Go to **Project Settings → Domains**
-* Click **Connect Domain**
-
----
-
 ## 📚 Learning Outcome
 
 Through this project, I learned:
