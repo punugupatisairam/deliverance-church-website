@@ -1,71 +1,134 @@
-## Project info
+# ⛪ Deliverance Church Website
 
-**URL**: https://lovable.dev/projects/fbf2bfae-3828-4968-ae95-51fe6ab8d579
+## 📌 Project Overview
 
-## How can I edit this code?
+This is a modern and responsive **Church Website** built using **React, TypeScript, and Tailwind CSS**.
+The project was developed with the help of **Lovable AI**, which assisted in generating and structuring the application.
 
-There are several ways of editing your application.
+The website provides information about:
 
-**Use Lovable**
+* Church mission and vision
+* Ministries and services
+* Pastor details
+* Contact and support
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/fbf2bfae-3828-4968-ae95-51fe6ab8d579) and start prompting.
+---
 
-Changes made via Lovable will be committed automatically to this repo.
+## 🌐 Live Demo
 
-**Use your preferred IDE**
+🔗 **View Website (User Experience):**
+[https://betheldeliverancefoundation.netlify.app/](https://betheldeliverancefoundation.netlify.app/)
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+🔗 **Lovable Project:**
+[https://lovable.dev/projects/fbf2bfae-3828-4968-ae95-51fe6ab8d579](https://lovable.dev/projects/fbf2bfae-3828-4968-ae95-51fe6ab8d579)
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+## 🛠️ Technologies Used
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
+* ⚡ Vite
+* ⚛️ React
+* 🟦 TypeScript
+* 🎨 Tailwind CSS
+* 🧩 shadcn-ui
+* 🤖 Lovable AI
+
+---
+
+## ✨ Features
+
+* Responsive UI design
+* Clean and modern layout
+* Modular component structure
+* Fast performance using Vite
+* Easy navigation across pages
+
+---
+
+## 💡 How This Project Was Built
+
+This project was created using **Lovable AI platform**, where:
+
+* UI and components were generated using prompts
+* Code structure was automatically organized
+* Changes were synced with GitHub
+
+Further modifications and enhancements were done using a local development environment.
+
+---
+
+## 🖥️ Run Locally
+
+Follow these steps to run the project on your system:
+
+```bash
+# Clone the repository
 git clone <YOUR_GIT_URL>
 
-# Step 2: Navigate to the project directory.
+# Navigate to project folder
 cd <YOUR_PROJECT_NAME>
 
-# Step 3: Install the necessary dependencies.
-npm i
+# Install dependencies
+npm install
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Start development server
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+---
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## 🌐 Deployment
 
-**Use GitHub Codespaces**
+This project can be deployed directly using **Lovable**:
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+1. Open the project in Lovable
+2. Click on **Share → Publish**
 
-## What technologies are used for this project?
+---
 
-This project is built with:
+## 🔗 Custom Domain
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+You can connect your own domain:
 
-## How can I deploy this project?
+* Go to **Project Settings → Domains**
+* Click **Connect Domain**
 
-Simply open [Lovable](https://lovable.dev/projects/fbf2bfae-3828-4968-ae95-51fe6ab8d579) and click on Share -> Publish.
+---
 
-## Can I connect a custom domain to my Lovable project?
+## 📚 Learning Outcome
 
-Yes, you can!
+Through this project, I learned:
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+* Building UI with React & Tailwind
+* Using AI tools (Lovable) for development
+* Component-based architecture
+* Git and GitHub workflow
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+---
+
+## 🙌 Acknowledgment
+
+Special thanks to **Lovable AI** for assisting in building and structuring this project efficiently.
+
+---
+
+## 📧 Contact & Collaboration
+
+👤 **Sairam Punugupati**
+
+📩 **Email:** [punugupatisairam@gmail.com](mailto:punugupatisairam@gmail.com)
+
+🔗 **LinkedIn:** [https://www.linkedin.com/in/sairam-punugupati-7a2782250/](https://www.linkedin.com/in/sairam-punugupati-7a2782250/)
+
+---
+
+🚀 I am actively seeking opportunities in:
+
+* Frontend Development (React.js)
+* Cloud Computing (AWS)
+
+🤝 Open to collaboration on innovative projects and learning opportunities.
+
+Feel free to connect and collaborate!
+
+---
